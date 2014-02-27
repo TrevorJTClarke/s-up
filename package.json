@@ -1,0 +1,25 @@
+{
+  "name": "s-up",
+  "version": "0.1.0",
+  "description": "An angular directive for drag and drop uploading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrevorJTClarke/s-up.git"
+  },
+  "keywords": [
+    "upload",
+    "drag",
+    "drop",
+    "angular"
+  ],
+  "author": "Trevor Clarke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrevorJTClarke/s-up/issues"
+  },
+  "homepage": "https://github.com/TrevorJTClarke/s-up"
+}
